@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ChatViewController.h
 //  parsechat
 //
 //  Created by dkaviani on 7/6/20.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface ChatViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
